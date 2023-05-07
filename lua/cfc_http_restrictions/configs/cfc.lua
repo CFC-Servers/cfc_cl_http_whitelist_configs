@@ -41,5 +41,6 @@ return {
         
         -- Steam API, mapvote uses this.
         ["api.steampowered.com"] =  {allowed=true, permanent=true}
+        ["steamuserimages-a.akamaihd.net"] = {allowed=true, permanent=true}
     }
 }
