@@ -25,6 +25,7 @@ return {
         ["developer.mozilla.org"] = { allowed = true },
         ["w3.impa.br"] = { allowed = true },
 
+
         ["*.cfcservers.org"] = { allowed = true, permanent = true },
         ["cfcservers.org"] = { allowed = true, permanent = true },
 
